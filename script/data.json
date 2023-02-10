@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Entradas",
+        "description": "Pizza",
+        "price": 1200,
+        "available": false,
+        "source": "images/pizza.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Piezas de pollo",
+        "price": 1300,
+        "available": true,
+        "source": "images/piezas.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Empanadas",
+        "price": 500,
+        "available": true,
+        "source": "images/empanadas.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Estofado",
+        "price": 1200,
+        "available": true,
+        "source": "images/estofado.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "choripan",
+        "price": 700,
+        "available": true,
+        "source": "images/choripan.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Pastel de papa",
+        "price": 1450,
+        "available": true,
+        "source": "images/pastelp.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Tacos",
+        "price": 1150,
+        "available": true,
+        "source": "images/tacos.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Arroz con cheddar",
+        "price": 1550,
+        "available": false,
+        "source": "images/arroz.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Camarones",
+        "price": 1400,
+        "available": true,
+        "source": "images/camarones.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Ñoquis con carne",
+        "price": 1250,
+        "available": true,
+        "source": "images/ñoquis.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Volcán de chocolate",
+        "price": 790,
+        "available": true,
+        "source": "images/volcan.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Creme brulee",
+        "price": 500,
+        "available": true,
+        "source": "images/creme_brulee.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Flan casero",
+        "price": 520,
+        "available": true,
+        "source": "images/flan.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Ensalada de frutas",
+        "price": 590,
+        "available": true,
+        "source": "images/ensalada_frutas.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Cheesecake con frutos del bosque",
+        "price": 560,
+        "available": false,
+        "source": "images/cheseecake.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Agua sin gas",
+        "price": 210,
+        "available": true,
+        "source": "images/agua.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Jugo exprimido de naranja",
+        "price": 400,
+        "available": true,
+        "source": "images/exprimido.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Cerveza Cape Horn",
+        "price": 560,
+        "available": false,
+        "source": "images/cerveza.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Vino Tinto Amalaya Corte Único",
+        "price": 1100,
+        "available": true,
+        "source": "images/vino_tinto.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Vino Blanco Norton Cosecha Tardía",
+        "price": 900,
+        "available": true,
+        "source": "images/vino_blanco.jpg"
+    }
+]
